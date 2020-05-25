@@ -1,0 +1,9 @@
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\bin\Debug\SnakeKaarma.exe.config
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\bin\Debug\SnakeKaarma.exe
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\bin\Debug\SnakeKaarma.pdb
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\obj\Debug\SnakeKaarma.csprojAssemblyReference.cache
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\obj\Debug\SnakeKaarma.csproj.CoreCompileInputs.cache
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\obj\Debug\SnakeKaarma.csproj.CopyComplete
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\obj\Debug\SnakeKaarma.exe
+C:\Users\playt\source\repos\SnakeKaarma\SnakeKaarma\obj\Debug\SnakeKaarma.pdb
