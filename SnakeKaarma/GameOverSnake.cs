@@ -11,7 +11,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace SnakeKaarma
 {
-	class GameOverSnake
+	class GameOverSnake // После смерти будет показывать "GAME OVER", и дополнительно создаем, кто автор, кол-во очков.
 	{
 		public void WriteGameOver(string name, int score)
 		{
@@ -34,7 +34,7 @@ namespace SnakeKaarma
 			Console.WriteLine(score);
 			using (var file = new StreamWriter("score.txt", true))
 			{
-				file.WriteLine("Name: " + name + " | Score:" + score);
+				file.WriteLine("Name: " + name + " | Score:" + score); // Имя выдаст, который пользователь написал
 				file.Close();
 			}
 		}

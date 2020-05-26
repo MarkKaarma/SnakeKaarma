@@ -21,7 +21,7 @@ namespace SnakeKaarma
 			this.sym = sym;
 		}
 
-		public point CreateFood()
+		public point CreateFood() // Создаем рандомное положение "еды" для Змейки на игровой площадке 
 		{
 			int x = random.Next(2, mapWidht - 2);
 			int y = random.Next(2, mapHeight - 2);
